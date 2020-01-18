@@ -21,3 +21,5 @@ RUN curl -LO https://storage.googleapis.com/kubernetes-release/release/$(curl -s
 	&& mv ./kubectl /usr/local/bin/kubectl
 
 # Lo ANTERIOR descarga la CLI de Kubernetes (kubectl) y la instala:
+
+
